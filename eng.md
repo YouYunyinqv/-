@@ -101,7 +101,7 @@ Below are some points that I think are obvious but might actually be overlooked.
   The physical Actuator is a feature system possessing a complete internal action system. We provide the interface; the agent will move randomly at first, and then it needs to toolize this Actuator by itself.
 - The Minimum Actuator is the first feature (or feature cluster) to be "toolized."
 
-### 2.1 Toolization of Features
+### 2.11 Toolization of Features
 
 The agent can only use existing information to predict and obtain future information in other systems.
 We simulate three feature spaces in our brains to help with thinking:
@@ -113,7 +113,7 @@ S: Completely predictable feature S1, Unpredictable high-level feature S2
 Then, after S1 is completely predictable, due to the continuity of feature space, S1 actually becomes a tool for the agent to leverage S2. It cannot obtain information it does not know out of thin air.
 Other progressive relationships follow the same logic.
 
-#### 2.2 First Toolization Example of the Minimum Actuator
+#### 2.21 First Toolization Example of the Minimum Actuator
 
 The Minimum Actuator is actually the first information cluster to be toolized.
 It becomes the paradigm for subsequent toolization.
