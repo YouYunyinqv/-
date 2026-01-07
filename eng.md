@@ -113,7 +113,7 @@ S: Completely predictable feature S1, Unpredictable high-level feature S2
 Then, after S1 is completely predictable, due to the continuity of feature space, S1 actually becomes a tool for the agent to leverage S2. It cannot obtain information it does not know out of thin air.
 Other progressive relationships follow the same logic.
 
-#### 2.21 First Toolization Example of the Minimum Actuator
+#### 2.12 First Toolization Example of the Minimum Actuator
 
 The Minimum Actuator is actually the first information cluster to be toolized.
 It becomes the paradigm for subsequent toolization.
